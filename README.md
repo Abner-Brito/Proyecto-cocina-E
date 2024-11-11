@@ -31,7 +31,7 @@ Descuentos: Ofertas especiales para estudiantes de la UADY.
 Fidelidad: Tarjeta de puntos para clientes frecuentes.
 
 # Contacto
-Redes Sociales: hambreadosuady@gmail.com
+Redes Sociales: hambradosuady@gmail.com
 
 Teléfono: 986 688 0070
 
